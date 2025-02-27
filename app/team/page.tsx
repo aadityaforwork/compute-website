@@ -3,7 +3,7 @@
 import { FloatingNav } from "@/components/ui/FloatingNavbar";
 import { CanvasRevealEffectDemo } from "@/components/ui/TeamCards";
 import React from "react";
-import { FaAnchor, FaHome,FaGithub,FaLinkedinIn,FaInstagram } from "react-icons/fa";
+import { FaAnchor, FaHome,FaGithub,FaLinkedin,FaInstagram } from "react-icons/fa";
 
 
 const page = () => {
@@ -31,7 +31,7 @@ const page = () => {
     <FaGithub  />
   </a> 
   <a href="https://www.linkedin.com/company/djscompute/posts/?feedView=all" className="text-[2.8vh]  hover:scale-90 border border-white rounded-full p-[1vh]">
-    <FaLinkedinIn />
+    <FaLinkedin />
   </a> 
   <a href="https://www.instagram.com/djscompute/" className="text-[3vh] border  hover:scale-90 border-white rounded-full p-[1vh]">
     <FaInstagram />
