@@ -55,7 +55,7 @@ export function CardDemo() {
       <h1 className="text-4xl md:text-6xl font-bold text-center mb-12">
         Curating Excellence:{" "}
         <span className="text-purple">
-          Our Club's Premier Events
+          Our Club&apos;s Premier Events
         </span>
       </h1>
 

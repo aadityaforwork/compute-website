@@ -134,7 +134,7 @@ const DataEngineeringContent = () => {
               Converting data into actionable insights.
               </span>{" "}
               Data engineering is reshaping the way organizations manage and utilize their data. By designing robust data pipelines and architectures, data engineers ensure that data flows seamlessly from various sources to analytical tools. Explore essential technologies like ETL processes, data warehousing, and big data frameworks. From building scalable data infrastructures to optimizing data storage and retrieval,
-              you will gain practical experience in the critical skills needed to drive data-driven decision-making in today's tech landscape.
+              you will gain practical experience in the critical skills needed to drive data-driven decision-making in today&apos;s tech landscape.
             </p>
             <Image
               src="https://assets.aceternity.com/macbook.png"

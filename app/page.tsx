@@ -39,7 +39,7 @@ export default function Home() {
           <FaInstagram className="text-2xl text-purple hover:text-white mt-4" />
         </a>
         <a href="https://in.linkedin.com/company/djscompute" target="_blank" rel="noopener noreferrer">
-          <FaLinkedin className="text-2xl text-purple hover:text-white mt-4" />
+          <FaLinkedinIn className="text-2xl text-purple hover:text-white mt-4" />
         </a>
         <a href="https://github.com/djscompute" target="_blank" rel="noopener noreferrer">
           <FaGithub className="text-2xl text-purple hover:text-white mt-4" />
